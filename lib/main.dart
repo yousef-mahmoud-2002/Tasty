@@ -16,14 +16,7 @@ void main() {
   SystemChrome.setPreferredOrientations(
     [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown],
   );
-
-  runApp(
-    // DevicePreview(
-    //   enabled: true,
-    //   builder: (context) =>
-    const Tasty(), // Wrap your app
-    // ),
-  );
+  runApp(const Tasty());
 }
 
 class Tasty extends StatelessWidget {

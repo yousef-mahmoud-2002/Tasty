@@ -1,16 +1,33 @@
-# tasty
+# 🍽️ Tasty
 
-A new Flutter project.
+Tasty is a beautifully designed Recipes app that helps you explore, filter, and cook recipes from around the world. This app provides full details for each meal including ingredients, instructions, and YouTube video tutorials — all with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Search Recipes** by name.
+- 📂 **Filter Recipes** by:
+  - Category (e.g. Dessert, Seafood)
+  - Area (Cuisine like Italian, Mexican...)
+  - Ingredient (e.g. Chicken, Rice...)
+- 📋 **Ingredients View** with full list and measures.
+- 👨‍🍳 **Steps View** with brief instructions.
+- 🎬 **Video Tutorial** embedded from YouTube.
+- 💨 Smooth loading using placeholders and animations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/tasty.git
+cd tasty
+flutter pub get
+flutter run
