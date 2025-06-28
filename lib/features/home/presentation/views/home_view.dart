@@ -27,7 +27,7 @@ class HomeView extends StatelessWidget {
                     MealsSearchBar(),
                   ],
                 ).animate().slideX(
-                    duration: const Duration(milliseconds: 1500), begin: -5),
+                    duration: const Duration(milliseconds: 800), begin: -5),
               ),
               const CategoriesView(),
               const Expanded(child: RandomRecipe()),

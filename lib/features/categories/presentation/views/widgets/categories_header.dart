@@ -23,7 +23,7 @@ class CategoriesHeader extends StatelessWidget {
           SizedBox(width: 12),
           CategoriesFilter(),
         ],
-      ).animate().scale(duration: const Duration(milliseconds: 700)),
+      ).animate().scale(duration: const Duration(milliseconds: 800)),
     );
   }
 }

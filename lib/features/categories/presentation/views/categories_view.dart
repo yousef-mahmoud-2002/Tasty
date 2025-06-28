@@ -15,10 +15,10 @@ class CategoriesView extends StatelessWidget {
         const CategoriesHeader(),
         const CategoriesTabBar()
             .animate()
-            .slideX(duration: const Duration(milliseconds: 1700), begin: 5),
+            .slideX(duration: const Duration(milliseconds: 800), begin: 5),
         const MealsList()
             .animate()
-            .slideX(duration: const Duration(milliseconds: 1700), begin: 5),
+            .slideX(duration: const Duration(milliseconds: 800), begin: 5),
       ],
     );
   }
