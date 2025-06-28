@@ -20,14 +20,43 @@ Tasty is a beautifully designed Recipes app that helps you explore, filter, and 
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+Explore featured meals and categories.
 
+<img src="screenshots/home.png" width=250/>
 
----
+### 🎲 Random Recipe
+Get inspired by a randomly selected recipe from the App.
 
-## 📦 Installation
+<img src="screenshots/random_recipe.png" width=250/>
 
-```bash
-git clone https://github.com/YOUR_USERNAME/tasty.git
-cd tasty
-flutter pub get
-flutter run
+### 🔍 Search Page
+Type in your favorite meal and search instantly.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/search.png" width=250/>
+    </td>
+    <td align="center">
+      <img src="screenshots/search_results.png" width=250/>
+    </td>
+  </tr>
+</table>
+
+### 📖 Recipe Details
+Full details view with ingredients, cooking steps, and video.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/ingredients.png" width=250/>
+    </td>
+    <td align="center">
+      <img src="screenshots/briefly.png" width=250/>
+    </td>
+    <td align="center">
+      <img src="screenshots/video.png" width=250/>
+    </td>
+  </tr>
+</table>
